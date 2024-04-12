@@ -5,19 +5,19 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "We pride ourselves on serving only the highest quality food, crafted with care and attention to detail to ensure a truly exceptional dining experience." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "Our culinary artisans skillfully infuse every dish with a burst of superlative taste, tantalizing your taste buds with an explosion of flavors that will leave you craving for more." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "With our commitment to prompt service, we guarantee fast delivery straight to your doorstep, ensuring that you can savor our delectable creations without delay." 
             }
         ],
         "dishes": [
